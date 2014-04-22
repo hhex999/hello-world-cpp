@@ -30,4 +30,6 @@ int main()
     result = first_value / second_value;
     std::cout << "Your result is: " << result << std::endl;
   }
+
+  return 0;
 }
