@@ -18,6 +18,7 @@ int main()
 	      << "\nto see the looping 'hello world' string: "
 	      << std::endl;
     std::cin >> loops;
+    std::cout << "\n";
 
     backedUpLoops = loops;
 
