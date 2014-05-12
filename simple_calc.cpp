@@ -1,3 +1,5 @@
+// Simple calculator
+
 #include <cstdio>
 #include <iostream>
 
